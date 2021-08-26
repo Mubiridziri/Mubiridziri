@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mubiridziri
 - 👀 I’m interested in backend & mobile development
-- 🌱 I’m currently learning Symfony (PHP), Kotlin & Jetpack Compose
+- 🌱 I’m currently learning Kotlin & Jetpack Compose & GoLang
 - 📫 How to reach me yupotapovhome@gmail.com
 
 <!---
