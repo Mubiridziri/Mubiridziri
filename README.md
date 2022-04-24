@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mubiridziri
 - 👀 I’m interested in backend & mobile development
-- 🌱 I’m currently learning Kotlin & Jetpack Compose & GoLang
-- 📫 How to reach me yupotapovhome@gmail.com
+- 📫 How to reach me yupotapov@icloud.com
 
 <!---
 Mubiridziri/Mubiridziri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
